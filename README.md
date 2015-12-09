@@ -1,0 +1,1 @@
+Node js with Meteor and PhantomJS preinstalled. Tag follow structure: `<node version>_<metor_version>_<phantomjs version>`
